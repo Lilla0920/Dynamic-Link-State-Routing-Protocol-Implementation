@@ -1,2 +1,2 @@
-# COMP9331
+# COMP3331
 UNSW Computer Networks and Applications
